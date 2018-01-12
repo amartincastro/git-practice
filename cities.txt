@@ -2,6 +2,7 @@ MA Boston
 MA Cape Cod
 MA Springfield
 MA Worcester
+MA Spencer
 TX Dallas
 TX San Antonio
 TX Houston
