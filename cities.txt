@@ -1,3 +1,8 @@
+FL  Delray Beach
+FL  Fort Lauderdale
+FL  Miami
+FL  Tampa
+FL  Orlando
 MA Boston
 MA Cape Cod
 MA Springfield
